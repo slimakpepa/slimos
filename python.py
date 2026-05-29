@@ -1,1 +1,3 @@
+#ahoj
 
+print("ahoj")
